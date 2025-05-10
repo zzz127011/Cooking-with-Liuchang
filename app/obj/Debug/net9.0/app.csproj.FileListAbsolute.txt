@@ -1,0 +1,30 @@
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/bin/Debug/net9.0/app
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/bin/Debug/net9.0/app.deps.json
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/bin/Debug/net9.0/app.runtimeconfig.json
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/bin/Debug/net9.0/app.dll
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/bin/Debug/net9.0/app.pdb
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/obj/Debug/net9.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/obj/Debug/net9.0/app.AssemblyInfoInputs.cache
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/obj/Debug/net9.0/app.AssemblyInfo.cs
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/obj/Debug/net9.0/app.csproj.CoreCompileInputs.cache
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/obj/Debug/net9.0/app.sourcelink.json
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/obj/Debug/net9.0/app.dll
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/obj/Debug/net9.0/refint/app.dll
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/obj/Debug/net9.0/app.pdb
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/obj/Debug/net9.0/app.genruntimeconfig.cache
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/app/obj/Debug/net9.0/ref/app.dll
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/bin/Debug/net9.0/app
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/bin/Debug/net9.0/app.deps.json
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/bin/Debug/net9.0/app.runtimeconfig.json
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/bin/Debug/net9.0/app.dll
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/bin/Debug/net9.0/app.pdb
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/obj/Debug/net9.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/obj/Debug/net9.0/app.AssemblyInfoInputs.cache
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/obj/Debug/net9.0/app.AssemblyInfo.cs
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/obj/Debug/net9.0/app.csproj.CoreCompileInputs.cache
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/obj/Debug/net9.0/app.sourcelink.json
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/obj/Debug/net9.0/app.dll
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/obj/Debug/net9.0/refint/app.dll
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/obj/Debug/net9.0/app.pdb
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/obj/Debug/net9.0/app.genruntimeconfig.cache
+/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test Scripts/app/obj/Debug/net9.0/ref/app.dll
