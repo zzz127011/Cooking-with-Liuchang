@@ -10,9 +10,17 @@ In the Test folder, there is a example of Using Java as an external process. Thi
 
 1. Create a folder.
 2. Create your Java file.
-3. In that same folder with the Java file, in VScode's terminal, type: <sub> javac </sub> _file name_<sub>.java </sub> into the terminal.
+3. In that same folder with the Java file, in VScode's terminal, type: <sub>javac </sub> _file name_<sub>.java </sub> into the terminal.
 4. Once the .class file is created for that Java file inside the folder, create a new C# project or just the file if using Unity.
 
 **Skip this if you're using Unity**
 
-6. create a C# project using the command in VScode terminal: <sub> dotnet new console -n </sub> _file name_
+6. Create a C# project using the command in VScode terminal: <sub> dotnet new console -n </sub> _file name_
+
+7. Use the command: <sub>cd </sub> _file name_
+8. Use: <sub>dotnet run </sub> to run the program.
+
+  
+**Finally refrence the Java file from the main folder, play with the code for more on that.** 
+
+This can kind of method can only be used to call the man method, but it should be enough for the games, just need to make a lot of Java files. 
