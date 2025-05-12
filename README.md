@@ -23,4 +23,4 @@ In the Test folder, there is a example of Using Java as an external process. Thi
   
 **Finally refrence the Java file from the main folder, play with the code for more on that.** 
 
-This can kind of method can only be used to call the man method, but it should be enough for the games, just need to make a lot of Java files. 
+This can kind of method can only be used to call the main method, but it should be enough for the games, just need to make a lot of Java files. 
