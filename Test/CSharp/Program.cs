@@ -12,7 +12,7 @@ class Program {
         Console.Write("Enter second number: ");
         string num2 = Console.ReadLine();
 
-        Console.Write("Method test for Selection sort: ");
+        Console.Write("Method test for reverseString sort: ");
         string str = Console.ReadLine();
 
         // Set up the Java process

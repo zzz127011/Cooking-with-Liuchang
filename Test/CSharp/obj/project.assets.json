@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/catkitty1270/Desktop/Test/CSharp/JavaInteropApp.csproj",
+      "projectUniqueName": "/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test/CSharp/JavaInteropApp.csproj",
       "projectName": "JavaInteropApp",
-      "projectPath": "/Users/catkitty1270/Desktop/Test/CSharp/JavaInteropApp.csproj",
+      "projectPath": "/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test/CSharp/JavaInteropApp.csproj",
       "packagesPath": "/Users/catkitty1270/.nuget/packages/",
-      "outputPath": "/Users/catkitty1270/Desktop/Test/CSharp/obj/",
+      "outputPath": "/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test/CSharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/catkitty1270/.nuget/NuGet/NuGet.Config"
