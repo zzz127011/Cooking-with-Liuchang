@@ -45,13 +45,13 @@ public class tictactoe
     {
         // Player move
         System.out.println("Enter a number from 1-9 to place your 'X': ");
-        int playerMove = playerInput.nextInt();
         if(!playerInput.hasNextInt())
         {
             System.out.println("Please enter a number from 1-9.");
             playerInput.next();
             continue;
         }
+        int playerMove = playerInput.nextInt();
         if(playerMove < 1 || playerMove > 9)
         {
             System.out.println("Please enter a number from 1-9.");
