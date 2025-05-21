@@ -34,8 +34,9 @@ public class tictactoe
     System.out.println("Welcome to Tic Tac Toe!");
     System.out.println("You will be playing against the computer as 'X' and the computer will be 'O'.");
     System.out.println("The board is numbered as follows:");
+    String boardNums[][] = {{"1", "2", "3"}, {"4", "5", "6"}, {"7", "8", "9"}};
     String board[][] = {{" ", " ", " "}, {" ", " ", " "}, {" ", " ", " "}};
-    printBoard(board);
+    printBoard(boardNums);
     int moves = 9;
     int spaces[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
     Scanner playerInput = new Scanner(System.in);
@@ -45,6 +46,12 @@ public class tictactoe
         // Player move
         System.out.println("Enter a number from 1-9 to place your 'X': ");
         int playerMove = playerInput.nextInt();
+        if(!playerInput.hasNextInt())
+        {
+            System.out.println("Please enter a number from 1-9.");
+            playerInput.next();
+            continue;
+        }
         if(playerMove < 1 || playerMove > 9)
         {
             System.out.println("Please enter a number from 1-9.");

@@ -9,7 +9,7 @@ public class minigame
     
     public minigame()
     {
-        words = new String[] {"house", "sausage", "food", "computer"};
+        words = new String[] {"house", "sausage", "food", "computer", "collapse", "experiment", "hangman"};
         word = words[(int)(Math.random()*4)];
         numLetters = word.length();
     }
