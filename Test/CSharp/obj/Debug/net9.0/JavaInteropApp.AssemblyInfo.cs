@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JavaInteropApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f8948f55c1dec3a3fe7f15d739508c27ae2e896")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea53171c4ae958fdb50d4c7c2ea06860815259a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("JavaInteropApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JavaInteropApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

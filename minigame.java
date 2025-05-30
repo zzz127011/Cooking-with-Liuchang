@@ -9,7 +9,7 @@ public class minigame
     
     public minigame()
     {
-        words = new String[] {"house", "sausage", "food", "computer"};
+        words = new String[] {"house", "sausage", "food", "computer", "collapse", "experiment", "hangman"};
         word = words[(int)(Math.random()*4)];
         numLetters = word.length();
     }
@@ -27,7 +27,7 @@ public class minigame
         Scanner playerGuess = new Scanner(System.in);
         System.out.println("Welcome to Hangman, you will be allowed five incorrect guesses before you lose. Good luck!");
 
-        while(wrongGuesses < 5)
+        while(wrongGuesses < 6)
         {
             System.out.println("Guess a letter: ");
             String guess = playerGuess.nextLine();
@@ -45,14 +45,21 @@ public class minigame
             if(word.indexOf(guess) == -1)
             {
                 wrongGuesses += 1;
-                System.out.println("Wrong guess! You have " + (5 - wrongGuesses) + " incorrect guesses left.");
+                if(5-wrongGuesses == 1)
+                {
+                    System.out.println("Wrong guess! You have " + (5 - wrongGuesses) + " incorrect guess left.");
+                }
+                else
+                {
+                    System.out.println("Wrong guess! You have " + (5 - wrongGuesses) + " incorrect guesses left.");
+                }
                 guesses.add(guess);
                 System.out.println("Guesses: " + guesses);
             }
             else
             {
                 System.out.println("Correct guess!");
-                guesses.add(guess);
+                System.out.println("Incorrect Guesses: " + guesses);
                 for(int i = 0; i < word.length(); i++)
                 {
                     if(word.charAt(i) == guess.charAt(0))

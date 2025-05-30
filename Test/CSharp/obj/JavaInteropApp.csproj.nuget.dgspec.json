@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/evaawoyinka/Documents/GitHub/Cooking-with-Liuchang/Test/CSharp/JavaInteropApp.csproj": {}
+    "/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test/CSharp/JavaInteropApp.csproj": {}
   },
   "projects": {
-    "/Users/evaawoyinka/Documents/GitHub/Cooking-with-Liuchang/Test/CSharp/JavaInteropApp.csproj": {
+    "/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test/CSharp/JavaInteropApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/evaawoyinka/Documents/GitHub/Cooking-with-Liuchang/Test/CSharp/JavaInteropApp.csproj",
+        "projectUniqueName": "/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test/CSharp/JavaInteropApp.csproj",
         "projectName": "JavaInteropApp",
-        "projectPath": "/Users/evaawoyinka/Documents/GitHub/Cooking-with-Liuchang/Test/CSharp/JavaInteropApp.csproj",
-        "packagesPath": "/Users/evaawoyinka/.nuget/packages/",
-        "outputPath": "/Users/evaawoyinka/Documents/GitHub/Cooking-with-Liuchang/Test/CSharp/obj/",
+        "projectPath": "/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test/CSharp/JavaInteropApp.csproj",
+        "packagesPath": "/Users/catkitty1270/.nuget/packages/",
+        "outputPath": "/Users/catkitty1270/Desktop/Cooking-with-Liuchang/Test/CSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/evaawoyinka/.nuget/NuGet/NuGet.Config"
+          "/Users/catkitty1270/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
